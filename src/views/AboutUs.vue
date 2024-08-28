@@ -4,7 +4,7 @@
     <section class="section-full content-inner about-bx2">
       <HomeAbout />
     </section>
-    <section class="content-inner-2">
+    <!-- <section class="content-inner-2">
       <div class="container">
         <div class="section-head style-1 text-center">
           <h6 class="sub-title text-primary">WORK PROCESS</h6>
@@ -20,7 +20,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <section class="content-inner-2" :style="`background-image: url(${bg1});`">
       <div class="container">
         <div class="row section-head-bx align-items-center">
@@ -60,7 +60,7 @@
 <script lang="ts">
 import CommonBanner from '@/elements/CommonBanner.vue'
 import { defineComponent } from 'vue'
-import bnr3 from '@/assets/images/banner/bnr3.jpg'
+import bnr3 from '@/assets/images/banner/bnr9.jpg'
 import HomeAbout from '@/components/HomeAbout.vue'
 import OurPortfolio from '@/components/OurPortfolio.vue'
 import bg1 from '@/assets/images/background/bg1.png'

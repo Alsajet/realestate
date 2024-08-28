@@ -9,7 +9,7 @@
         <div class="container clearfix">
           <div class="logo-header mostion logo-light">
             <RouterLink to="/"
-              ><img class="header_logo2" src="@/assets/images/TH-3.png" alt=""
+              ><img class="header_logo2" src="@/assets/images/TH-3.jpg" alt=""
             /></RouterLink>
           </div>
           <button
