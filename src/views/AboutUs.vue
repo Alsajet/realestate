@@ -1,6 +1,6 @@
 <template>
   <div class="page-content bg-white">
-    <CommonBanner :img="bnr3" title="About Us" text="About Us" />
+    <CommonBanner :img="bnr3" title="Chi siamo" text="Chi siamo" />
     <section class="section-full content-inner about-bx2">
       <HomeAbout />
     </section>
@@ -21,7 +21,7 @@
         </div>
       </div>
     </section> -->
-    <section class="content-inner-2" :style="`background-image: url(${bg1});`">
+    <!-- <section class="content-inner-2" :style="`background-image: url(${bg1});`">
       <div class="container">
         <div class="row section-head-bx align-items-center">
           <div class="col-md-8">
@@ -38,8 +38,8 @@
         </div>
       </div>
       <OurPortfolio />
-    </section>
-    <section
+    </section> -->
+    <!-- <section
       class="content-inner-2"
       :style="` background-image: url(${backgrouBg2});
         background-position: right bottom;
@@ -47,12 +47,12 @@
         background-repeat: no-repeat;`"
     >
       <Testimonial />
-    </section>
-    <section class="content-inner-2" :style="`background-image: url(${bg1});`">
+    </section> -->
+    <!-- <section class="content-inner-2" :style="`background-image: url(${bg1});`">
       <div class="container-fluid">
         <Testimonial2 />
       </div>
-    </section>
+    </section> -->
     <HomeFaq />
   </div>
 </template>

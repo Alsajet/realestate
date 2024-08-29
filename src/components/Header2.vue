@@ -40,7 +40,7 @@
           <div class="header-nav navbar-collapse justify-content-end">
             <div class="logo-header">
               <RouterLink to="/" class="logo-dark"
-                ><img src="@/assets/images/logo-3.png" alt=""
+                ><img src="@/assets/images/TH-4.jpg" alt=""
               /></RouterLink>
             </div>
             <Menu />

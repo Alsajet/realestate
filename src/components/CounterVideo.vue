@@ -1,5 +1,5 @@
 <template>
-  <div class="dz-content-inner">
+  <!-- <div class="dz-content-inner">
     <div class="row">
       <div class="col-xl-10 col-lg-12 counter-info aos-item">
         <div class="row">
@@ -34,7 +34,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 </template>
 
 <script lang="ts">

@@ -119,7 +119,7 @@ import Home3OurTeam from '@/components/Home3OurTeam.vue'
 import Home3Testimonial from '@/components/Home3Testimonial.vue'
 import Home3Blog from '@/components/Home3Blog.vue'
 import logoWhite from '@/assets/images/TH-3.jpg'
-import logo from '@/assets/images/logo-3.png'
+import logo from '@/assets/images/TH-4.jpg'
 import { RouterLink } from 'vue-router'
 
 export default defineComponent({

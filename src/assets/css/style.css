@@ -21204,7 +21204,7 @@ ul a.rsswidget:hover {
 }
 .icon-bx-wraper.style-9:active,
 .icon-bx-wraper.style-9:hover {
-  background: var(--primary);
+  background:#106575;
   transform: translateY(-10px);
   -moz-transform: translateY(-10px);
   -webkit-transform: translateY(-10px);

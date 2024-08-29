@@ -65,7 +65,7 @@
     <section class="dz-content-bx style-3">
       <CounterVideo />
     </section>
-    <section
+    <!-- <section
       class="content-inner-2"
       :style="` background-image: url(${bg2});
         background-position: right bottom;
@@ -73,8 +73,8 @@
         background-repeat: no-repeat;`"
     >
       <Testimonial />
-    </section>
-    <section
+    </section> -->
+    <!-- <section
       class="content-inner-2"
       :style="`background-image: url(${bg1});
             background-position: left top;
@@ -84,7 +84,7 @@
       <div class="container-fluid">
         <Testimonial2 />
       </div>
-    </section>
+    </section> -->
     <HomeFaq />
     <section class="section-full dz-content-bx style-2 text-white">
       <div
